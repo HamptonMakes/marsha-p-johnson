@@ -33,5 +33,17 @@ right government and movement.
 It's that specific targeting that prompts this extension, and the way that trans people are being targeted 
 currently is different from the very real stigmas still faced by other identities.
 
+## Before and After
+<div style="display: flex; gap: 20px;">
+    <div>
+        <h3>Before:</h3>
+        <img src="./before.png" alt="Before" width="400"/>
+    </div>
+    <div>
+        <h3>After:</h3>
+        <img src="./after.png" alt="After" width="400"/>
+    </div>
+</div>
+
 ## License
 MIT License. Contributions welcome!
