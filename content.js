@@ -31,7 +31,7 @@ function modifyText() {
 
   let node;
   while ((node = walker.nextNode())) {
-    node.nodeValue = node.nodeValue.replace(/LGB(?!T)/g, "LGBT🧱");
+    node.nodeValue = node.nodeValue.replace(/LGB(?!T)/g, "LGBTQ+🧱");
   }
 
   modifyText.isProcessing = false;

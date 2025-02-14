@@ -2,17 +2,19 @@
 
 by Hampton Lintorn-Catlin
 
-A web extension that highlights trans erasure by replacing "LGB" with "LGBT🧱".
+A web extension that highlights trans erasure by replacing "LGB" with "LGBTQ+🧱".
 
 **I know, Marsha did not throw the first brick at Stonewall.** However, her outspokenness and activism and eventual
 murder is a powerful reminder of the fight that still needs to be fought and the continual murder of trans people.
 
 At time of creation, the US Government is taking direct action to remove mentions of trans people from all
-government websites– including the removal of the T from LGBT on the Stonewall National Monument website.
+government websites– including the removal of the TQ+ from LGBTQ+ on the Stonewall National Monument website.
 Where **trans people** lead the fight at Stonewall that birthed the rights that queer people fought for in the
 USA today.
 
-*Th*e extension will actively highlight any erasure so that you can notice the censorship going on with your
+This is blatant erasure of trans people and their history.
+
+The extension will actively highlight any erasure so that you can notice the censorship going on with your
 own protest 🧱.
 
 ## Installation
@@ -23,7 +25,7 @@ own protest 🧱.
    - **Safari**: Use Xcode to build and load the extension.
 
 
-## What about LGBTQIA+ and other identities?
+## What about other identities?
 
 The intention of this extension is to highlight trans erasure, but it is important to recognize that there are
 many other identities that are important and equal. However, specifically, the government had been using "LGBT"
