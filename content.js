@@ -11,8 +11,8 @@ function modifyText() {
   let node;
   while ((node = walker.nextNode())) {
     if (node.nodeValue.includes("LGB")) {
-      // Replace "LGB" with "LGBT🏳️‍⚧️
-      node.nodeValue = node.nodeValue.replace(/LGB/g, "LGBT🏳️‍⚧🏳️‍⚧🏳️‍⚧️");
+      // Replace "LGB" with "LGBT🧱
+      node.nodeValue = node.nodeValue.replace(/LGB/g, "LGBT🧱");
     }
   }
 }
