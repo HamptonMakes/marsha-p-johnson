@@ -1,4 +1,4 @@
-# Marsha P Johnson
+# <img src="icon.png" width="32" height="32" alt="Extension Icon"> Marsha P Johnson 🧱
 
 by Hampton Lintorn-Catlin
 
