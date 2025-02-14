@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Marsha P Johnson",
+  "version": "1.0",
+  "description": "Ensures inclusivity by correcting 'LGB' to 'LGBT' and adding a trans pride flag.",
+  "icons": {
+    "128": "icon.png"
+  },
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
